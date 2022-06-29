@@ -23,7 +23,7 @@ To get a local copy up and running, kindly follow these steps.
    git clone https://github.com/r-clarissa/sudoku-app.git
    ```
 2. Find the cloned folder on your local directory.
-3. On your terminal, run the `sudoku.app`.
+3. On your terminal, run the `sudoku.py`.
 4. Enjoy the game!
 
 # Acknowledgement
