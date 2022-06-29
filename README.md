@@ -13,7 +13,7 @@ This is a sudoku puzzle quest where the sudo player inserts numbers (1-9) into a
 # Getting Started
 To get a local copy up and running, kindly follow these steps.
 
-### Prerequisite
+### Prerequisites
 * Python
 * pyfiglet 
 
